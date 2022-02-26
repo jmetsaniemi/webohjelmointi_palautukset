@@ -1,0 +1,228 @@
+
+
+.App{
+background-color: rgb(192, 188, 188);
+  height: 7000px;
+  
+
+}
+
+.Keskitys{
+  display: flex;
+  height: 90px;
+  background-color: rgb(20, 19, 85);
+ 
+  
+}
+
+
+
+  
+.Paasivu{
+
+  display: flex;
+  margin-left: 25%;
+  margin-right: 0%;
+  align-content: space-between;
+  justify-content: space-around;
+}
+.Formatting{
+  margin-left: 25%;
+  margin-right: 25%;
+  display: flex;
+  align-items: center;
+  
+  
+
+  }
+
+
+.Paasivu1{
+
+margin-left: 0%;
+margin-right: 25%;
+position: relative;
+align-content: center;
+width: 290px;
+display: flex;
+flex-direction: row;
+color: white;
+
+  
+
+}
+
+.MainHeaders{
+display: flex;
+box-sizing: border-box; 
+  
+align-content: space-evenly;
+width:100px;
+color: rgb(255, 255, 255);
+  
+}
+
+.subHeaderBar{
+   
+    
+    
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  color: black;  
+}
+
+.Formatting1{
+padding: 5px;
+position:absolute;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin-left: 25%;
+  margin-right: 25%;
+  align-items: left;
+  justify-content: center;
+  background-color: white;
+  border-radius: 15px;
+
+  }
+
+  .topBar{
+    display: flex;
+    flex-direction: column;
+    height: 50px; 
+    align-content: center;
+    box-sizing: border-box;
+    background-color: thistle;
+  }
+
+  
+
+  .subHeaders{
+    
+    width: 100px;
+
+
+
+     
+   
+     color: black;  
+   }
+
+
+   .ThisJust{
+  
+   
+   }
+
+   .ThisJustIn{
+
+    
+    border: 1px solid rgb(219, 212, 212);
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(65,150,164);
+    color: white;
+    font-size: 18px;
+    
+    
+    }
+    .ThisJustInCyan{
+     
+      border: 1px solid rgb(219, 212, 212);
+      height: 40px;
+      display: flex;
+      flex-direction: column;
+     
+      background-color: rgba(0,184,224);
+      color: white;
+      font-size: 18px;
+      
+      
+      }
+
+.kuva{
+  padding: 10px;
+}
+
+.Formatting2{
+
+  box-sizing: border-box;
+  background-color: white;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+   text-align: justify;
+  }
+
+
+  .pictureFraming{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  
+  }
+  
+
+.NewsBar{
+  padding: 15px;
+  flex: 0 1 10%;
+  border: 2px solid rgb(184, 181, 181);
+  border-radius: 15px;
+
+
+  display: flex;
+  justify-content: space-between;
+  flex-direction:column;
+  
+  
+}
+
+.doggyBar{
+
+  align-items: flex-end;
+  display: flex;
+  font-size: 12px;
+  width: 50%;
+  align-items: flex-start;
+}
+
+.Uutinen{
+  align-items: center;
+  display: flex;
+  font-size: 12px;
+  
+  align-items: flex-start;
+
+}
+
+
+.numerot{
+padding: 20px;
+
+}
+
+.NewNews{
+align-items: center;
+width: 400px;
+  display: flex;
+  flex-direction: row;
+  
+  flex: 0 0 100px;
+  border-bottom: 2px solid rgb(219, 212, 212);
+}
+
+
+
+
+
+

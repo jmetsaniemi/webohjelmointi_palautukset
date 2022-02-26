@@ -1,0 +1,33 @@
+.App {
+  justify-content: center;
+}
+
+.title{
+  background-color: rgb(87, 61, 59);
+  text-align: center;
+  color: aliceblue;
+}
+
+.productContainer {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 10px;
+}
+.productBox {
+  border-radius: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  margin: 30px;
+  min-width: 200px;
+  min-height: 76px;
+}
+.productBox img {
+  width: 100%;
+  margin-bottom: 20px;
+}

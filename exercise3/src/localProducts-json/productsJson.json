@@ -1,0 +1,64 @@
+[
+    {
+    "id": 1,
+    "name": "Apple Pen",
+    "price": 50,
+    "image": "https://www.gigantti.fi/image/dv_web_D180001002178817/15110/apple-pencil-2.jpg?$prod_all4one$"
+    },
+
+    
+    {
+        "id": 2,
+        "name": "Sukka",
+        "price": 12,
+        "image": "https://static.punomo.fi/uploads/2016/05/sukka_valmis_iso.gif"        
+    },
+    {
+        "id": 3,
+        "name": "Vyö",
+        "price": 12,
+        "image": "https://assets.manufactum.de/p/086/086105/86105_01.jpg/kreis-natural-oil-tanned-leather-belt.jpg"        
+    },
+    {
+        "id": 4,
+        "name": "Viiksi",
+        "price": 12,
+        "image": "https://m.media-amazon.com/images/I/719y4+a0A+L._AC_UX522_.jpg"        
+    },
+    {
+        "id": 5,
+        "name": "Taikina",
+        "price": 1324,
+        "image": "https://preppykitchen.com/wp-content/uploads/2021/07/pizza-dough-recipe-n.jpg"        
+    },
+    {
+        "id": 6,
+        "name": "Maria Veitola",
+        "price": 3662,
+        "image": "https://hs.mediadelivery.fi/img/468/a9ef6be4f540459a8d1656e85ebecaa0.jpg"        
+    },
+    {"id": 6,
+        "name": "Gnu",
+        "price": 322,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2011-blue-wildebeest.jpg/1200px-2011-blue-wildebeest.jpg"},
+    {"id": 6,
+        "name": "Triangeli",
+        "price": 62,
+        "image": "https://thumbs.static-thomann.de/thumb//orig/pics/prod/133702.webp"},
+    {"id": 6,
+        "name": "Tri-Angel",
+        "price": 362362,
+        "image": "https://ae01.alicdn.com/kf/HTB1HIfyJXXXXXatXpXXq6xXFXXXa/free-shipping-classical-three-angels-girls-canvas-printings-oil-painting-printed-on-canvas-home-wall-art.jpg_Q90.jpg_.webp"},
+    {"id": 6,
+        "name": "Crossroads - The Movie",
+        "price": 42424123,
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Crossroads_poster.JPG"},
+    {"id": 6,
+        "name": "Crossroads - The Soundtrack",
+        "price": 3,
+        "image": "https://m.media-amazon.com/images/I/51mqdOZQhRL.jpg"}
+
+
+
+
+]
